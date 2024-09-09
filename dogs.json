@@ -1,0 +1,57 @@
+[
+    {
+      "breedId": "B101",
+      "breedName": "Labradoodle",
+      "description": "Friendly, intelligent, and devoted. Great family dog.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://images.dog.ceo/breeds/labradoodle/labradoodle-forrest.jpg"
+    },
+    {
+      "breedId": "B102",
+      "breedName": "Pomeranian",
+      "description": "Friendly, outgoing, and high-spirited. Great family companion.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Canada",
+      "imageUrl": "https://images.dog.ceo/breeds/pomeranian/n02112018_8351.jpg"
+    },
+    {
+      "breedId": "B103",
+      "breedName": "Ariedale",
+      "description": "Courageous, confident, and smart. Excellent working dog.",
+      "size": "Large",
+      "lifespan": "9-13 years",
+      "origin": "Germany",
+      "imageUrl": "https://images.dog.ceo/breeds/airedale/n02096051_2314.jpg"
+    },
+    {
+      "breedId": "B104",
+      "breedName": "Sheepdog",
+      "description": "Curious, friendly, and merry. Great hunting dog.",
+      "size": "Medium",
+      "lifespan": "10-15 years",
+      "origin": "United Kingdom",
+      "imageUrl": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_16893.jpg"
+    },
+    {
+      "breedId": "B105",
+      "breedName": "Pitbull",
+      "description": "Calm, courageous, and friendly. A dignified dog.",
+      "size": "Medium",
+      "lifespan": "8-10 years",
+      "origin": "United Kingdom",
+      "imageUrl": "https://images.dog.ceo/breeds/pitbull/20190710_143021.jpg"
+    },
+    {
+      "breedId": "B106",
+      "breedName": "Terrier",
+      "description": "Active, proud, and very smart. Great for allergy sufferers.",
+      "size": "Medium",
+      "lifespan": "10-18 years",
+      "origin": "Germany/France",
+      "imageUrl": "https://images.dog.ceo/breeds/terrier-sealyham/n02095889_673.jpg"
+    }
+  ]
+  
